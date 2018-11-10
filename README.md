@@ -1,2 +1,2 @@
-# lanqiaoPractice
+# GitPractice
 Git练习
